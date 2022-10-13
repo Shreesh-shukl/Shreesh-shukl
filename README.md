@@ -1,6 +1,6 @@
 ### Hello, I'm Shreesh Shukla 👋
 
-- 🔭 I’m currently working on ... Management Project
+- 🔭 I’m currently working on ... Pytorch
 - 🌱 I’m currently learning ... Fullstack Development
 - 📫 How to reach me: ... shreesh8210@gmail.com
 - ⚡ Fun fact: ... I love history...
