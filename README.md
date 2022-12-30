@@ -14,7 +14,6 @@
 
 <p align="left"> <a href="https://twitter.com/Shreesh_Shukl" target="blank"><img src="https://img.shields.io/twitter/follow/shreesh_shukl?logo=twitter&style=for-the-badge" alt="shreesh_shukl" /></a> </p>
 
-- 📫 How to reach me **shreesh8210@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
