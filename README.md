@@ -1,6 +1,6 @@
 ### Hello, I'm Shreesh Shukla 👋
 
-- 🔭 I’m currently working on ... DSA
+- 🔭 I’m currently working on ... Devops
 - 🌱 I’m currently a ... Fullstack Developer
 - 📫 How to reach me: ... shreesh8210@gmail.com
 - ⚡ Fun fact: ... I love history...
