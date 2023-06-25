@@ -1,7 +1,7 @@
 ### Hello, I'm Shreesh Shukla 👋
 
 - 🔭 I’m currently working on ... Devops
-- 🌱 I’m currently a ... Fullstack Developer
+- 🌱 I’m currently a ... Fullstack Developer & Platform Engineer
 - 📫 How to reach me: ... shreesh8210@gmail.com
 - ⚡ Fun fact: ... I love history...
 -->
