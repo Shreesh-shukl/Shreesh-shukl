@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on ... Myself
 - 🌱 I’m currently a ... Fullstack Developer & Platform Engineer
 - 📫 How to reach me: ... shreesh8210@gmail.com
-- 
+
 -->
 <h1 align="center">Hi 👋, I'm Shreesh</h1>
 <h3 align="center">A passionate Fullstack Developer from India</h3>
